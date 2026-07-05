@@ -7,7 +7,7 @@ My learning journey during the summer vacation of 2026.
 
 ## 🎯 Goals
 
-- [ ] Learn Git & GitHub
+- [x] Learn Git & GitHub
 - [ ] Learn Linux Basics
 - [ ] Complete Cisco Introduction to Cybersecurity
 - [ ] Complete Cisco Networking Basics
@@ -24,7 +24,7 @@ My learning journey during the summer vacation of 2026.
 
 ## 💻 Projects
 
-- [ ] Git & GitHub Practice Repository
+- [x] Git & GitHub Practice Repository
 - [ ] Python Mini Project
 - [ ] Personal Portfolio (Future)
 
