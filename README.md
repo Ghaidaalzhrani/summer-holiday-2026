@@ -8,24 +8,24 @@ My learning journey during the summer vacation of 2026.
 ## 🎯 Goals
 
 - [x] Learn Git & GitHub
-- [ ] Learn Linux Basics
+- [ ] Learn Java Basics
 - [ ] Complete Cisco Introduction to Cybersecurity
-- [ ] Complete Cisco Networking Basics
 - [ ] Finish TryHackMe Pre Security
-- [ ] Learn Python Basics
+- [x] Learn Python Basics
 - [ ] Build My First Python Project
+- [ ] Build My First Java Project
 
 ## 📚 Courses
 
 - [ ] Cisco Introduction to Cybersecurity
-- [ ] Cisco Networking Basics
-- [ ] TryHackMe Pre Security
-- [ ] Python Fundamentals with tuwaiq academy-satr
+- [x] Python Fundamentals with tuwaiq academy-satr
+- [ ] Java Fundamentals with tuwaiq academy-satr
 
 ## 💻 Projects
 
 - [x] Git & GitHub Practice Repository
-- [ ] Python Mini Project
+- [x] Python Mini Project
+- [ ] Java Mini Project
 - [ ] Personal Portfolio (Future)
 
 ## 🏆 Achievements
