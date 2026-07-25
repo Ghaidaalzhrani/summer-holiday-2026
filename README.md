@@ -10,16 +10,17 @@ My learning journey during the summer vacation of 2026.
 - [x] Learn Git & GitHub
 - [ ] Learn Java Basics
 - [x] Learn Python101
-- [ ] Oracle Agentic AI Foundations
-- [ ] AWS Cloud Quest: Generative AI Practitioner
 - [ ] Build My First Python Mini Project
 - [ ] Build My First Java Mini Project
+- [ ] Earn 3 AI-related credentials
 
 ## 📚 Courses
 
-- [x] Fundamentals of AI from SDAIA
 - [x] Python Fundamentals with tuwaiq academy-satr
 - [ ] Java Fundamentals with tuwaiq academy-satr
+- [x] Fundamentals of AI from SDAIA
+- [ ] Oracle Agentic AI Foundations
+- [ ] AWS Cloud Quest: Generative AI Practitioner
 
 ## 💻 Projects
 
