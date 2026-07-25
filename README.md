@@ -9,22 +9,22 @@ My learning journey during the summer vacation of 2026.
 
 - [x] Learn Git & GitHub
 - [ ] Learn Java Basics
-- [ ] Complete Cisco Introduction to Cybersecurity
-- [ ] Finish TryHackMe Pre Security
-- [x] Learn Python Basics
-- [ ] Build My First Python Project
-- [ ] Build My First Java Project
+- [x] Learn Python101
+- [ ] Oracle Agentic AI Foundations
+- [ ] AWS Cloud Quest: Generative AI Practitioner
+- [ ] Build My First Python Mini Project
+- [ ] Build My First Java Mini Project
 
 ## 📚 Courses
 
-- [ ] Cisco Introduction to Cybersecurity
+- [x] Fundamentals of AI from SDAIA
 - [x] Python Fundamentals with tuwaiq academy-satr
 - [ ] Java Fundamentals with tuwaiq academy-satr
 
 ## 💻 Projects
 
 - [x] Git & GitHub Practice Repository
-- [x] Python Mini Project
+- [ ] Python Mini Project
 - [ ] Java Mini Project
 - [ ] Personal Portfolio (Future)
 
