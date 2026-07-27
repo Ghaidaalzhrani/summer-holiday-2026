@@ -10,7 +10,7 @@ My learning journey during the summer vacation of 2026.
 - [x] Learn Git & GitHub
 - [ ] Learn Java Basics
 - [x] Learn Python101
-- [ ] Build My First Python Mini Project
+- [x] Build My First Python101 Mini Project
 - [ ] Build My First Java Mini Project
 - [ ] Earn 3 AI-related credentials
 
@@ -25,7 +25,7 @@ My learning journey during the summer vacation of 2026.
 ## 💻 Projects
 
 - [x] Git & GitHub Practice Repository
-- [ ] Python Mini Project
+- [x] Python101 Mini Project
 - [ ] Java Mini Project
 - [ ] Personal Portfolio (Future)
 
