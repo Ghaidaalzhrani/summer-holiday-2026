@@ -1,6 +1,4 @@
-# summer-holiday-2026
-
-# 🌴 Summer Holiday 2026
+#  Summer Holiday 2026 🌴
 My learning journey during the summer vacation of 2026.
 
 ---
@@ -10,24 +8,32 @@ My learning journey during the summer vacation of 2026.
 - [x] Learn Git & GitHub
 - [ ] Learn Java Basics
 - [x] Learn Python101
+- [ ] Learn Python102
 - [x] Build My First Python101 Mini Project
+- [ ] Build Python102 Mini Project
 - [ ] Build My First Java Mini Project
 - [ ] Earn 3 AI-related credentials
 
 ## 📚 Courses
 
-- [x] Python Fundamentals with tuwaiq academy-satr
-- [ ] Java Fundamentals with tuwaiq academy-satr
+- [x] Python Fundamentals 
+- [ ] Java Fundamentals 
 - [x] Fundamentals of AI from SDAIA
-- [ ] Oracle Agentic AI Foundations
-- [ ] AWS Cloud Quest: Generative AI Practitioner
+- [x] Oracle Cloud Infrastructure (OCI)
+- [ ] Oracle Generative AI
+- [ ] Oracle Agentic AI
 
 ## 💻 Projects
 
 - [x] Git & GitHub Practice Repository
 - [x] Python101 Mini Project
+- [ ] Python102 Mini Project
 - [ ] Java Mini Project
 - [ ] Personal Portfolio (Future)
+- [ ] (OCI) Final Project
+- [ ] Oracle Generative AI Final Project
+- [ ] Oracle Agentic AI Final Project
+
 
 ## 🏆 Achievements
 
